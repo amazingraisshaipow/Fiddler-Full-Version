@@ -237,4 +237,4 @@ This repository serves as the official landing page for Fiddler. The software is
 **Get the most recent version of Fiddler today!**
 
 ---
-**Last updated:** 2026-10-08 01:30:43 UTC
+**Last updated:** 2026-10-08 08:19:10 UTC
